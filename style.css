@@ -95,8 +95,6 @@
     
 }
 
-
-
 .welcome .no-account p{
     display: inline;
     color:darkgreen;
@@ -134,7 +132,7 @@
       background-repeat: no-repeat;
       background-size: cover;
       background-position: center;
-      background-color: skyblue;
+
     }
     .welcome{
         width: 50%;
@@ -147,3 +145,6 @@
         flex-direction: row;
     }
  }
+
+
+
